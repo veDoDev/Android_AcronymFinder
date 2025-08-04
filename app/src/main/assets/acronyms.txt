@@ -1,0 +1,58 @@
+CPU,Central Processing Unit
+RAM,Random Access Memory
+ROM,Read Only Memory
+USB,Universal Serial Bus
+SSD,Solid State Drive
+HDD,Hard Disk Drive
+API,Application Programming Interface
+HTTP,HyperText Transfer Protocol
+HTTPS,HyperText Transfer Protocol Secure
+IP,Internet Protocol
+TCP,Transmission Control Protocol
+UDP,User Datagram Protocol
+URL,Uniform Resource Locator
+GUI,Graphical User Interface
+CLI,Command Line Interface
+IDE,Integrated Development Environment
+OS,Operating System
+LAN,Local Area Network
+WAN,Wide Area Network
+VPN,Virtual Private Network
+AI,Artificial Intelligence
+ML,Machine Learning
+IoT,Internet of Things
+SQL,Structured Query Language
+HTML,HyperText Markup Language
+CSS,Cascading Style Sheets
+JS,JavaScript
+JSON,JavaScript Object Notation
+XML,eXtensible Markup Language
+PDF,Portable Document Format
+GIF,Graphics Interchange Format
+PNG,Portable Network Graphics
+JPEG,Joint Photographic Experts Group
+DNS,Domain Name System
+MAC,Media Access Control
+BIOS,Basic Input Output System
+POST,Power On Self Test
+LCD,Liquid Crystal Display
+LED,Light Emitting Diode
+CMOS,Complementary Metal Oxide Semiconductor
+CAD,Computer-Aided Design
+CAE,Computer-Aided Engineering
+BASIC,Beginner's All-purpose Symbolic Instruction Code
+WWW,World Wide Web
+SEO,Search Engine Optimization
+URI,Uniform Resource Identifier
+SMTP,Simple Mail Transfer Protocol
+POP,Post Office Protocol
+IMAP,Internet Message Access Protocol
+VLAN,Virtual Local Area Network
+BI,Business Intelligence
+ERP,Enterprise Resource Planning
+CRM,Customer Relationship Management
+JWT,JSON Web Token
+TTS,Text To Speech
+OCR,Optical Character Recognition
+UI,User Interface
+UX,User Experience
